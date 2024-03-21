@@ -1,5 +1,5 @@
 # ignore VScode folder
 .vscode
 
-# ignore tmp material folder
-tmp-material
+# ignore lessons folder
+lessons
